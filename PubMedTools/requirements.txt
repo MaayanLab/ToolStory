@@ -22,7 +22,7 @@ progressbar2==3.51.4
 dropbox==10.3.0
 selenium==3.141.0
 tweepy==3.8.0
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.3.1
 bert-serving-client==1.9.6
 bert-serving-server==1.9.6
 Keras-Applications==1.0.8
