@@ -11,7 +11,7 @@ requests==2.22.0
 requests-oauthlib==1.2.0
 requests-unixsocket==0.1.5
 numpy==1.17.0
-urllib3==1.25.5
+urllib3==1.25.8
 pycountry==20.7.3
 habanero==0.7.0
 gensim==3.8.1
