@@ -1,7 +1,7 @@
 openpyxl==3.0.3
 lxml==4.4.2
 crossrefapi==1.4.0
-urllib3==1.25.3
+urllib3==1.25.8
 more-itertools==7.2.0
 spacy==2.1.8
 biopython==1.74
